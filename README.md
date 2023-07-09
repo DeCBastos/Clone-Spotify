@@ -1,5 +1,7 @@
 # Clone-Spotify
 
+**Spotify Clone**
+
 🤓 Um web clone app do Spotify feito em ReactJS, utiliza a API dele para obtenção e manipulação de dados como playlists, músicas e artistas preferidos do usuários.
 
 📝 **Índice:**
